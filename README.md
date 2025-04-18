@@ -22,4 +22,16 @@ Heavy metal concentrations in the groundwater samples were analysed using the at
 
 # Visualizations
 ![Heavy metal concentration vs WHO standards](https://github.com/user-attachments/assets/5dd42721-4146-46de-ae44-c09bb10d2f56)
+![Principal Components](https://github.com/user-attachments/assets/c0571b87-0758-4083-92ee-5e43e614a0b1)
+![Scree Plot](https://github.com/user-attachments/assets/b7708e66-93f5-4c9a-8503-e4218dc76f73)
+![RF Feature importance](https://github.com/user-attachments/assets/4d9191bf-8486-406b-bd3e-bb1e7842b252)
+![K_mean clusters](https://github.com/user-attachments/assets/74dd3991-d0e3-4875-bf86-345804e7180f)
+![Hetamap_feature means](https://github.com/user-attachments/assets/2581f55d-959a-437d-88d3-ca94a5d23085)
+![Inversion model for resistivity](https://github.com/user-attachments/assets/6b00a784-3dc8-4e5a-a464-50cd7f6a5733)
+
+
+# Author
+- [Emmanuel Nyavor](https://github.com/enyavor90)
+
+
 
